@@ -1,5 +1,9 @@
 # ClimateWins: Weather prediction (Machine Learning)
 
+## Presentation
+- [View / Download the PowerPoint](https://docs.google.com/presentation/d/1zuiehgtCJJzoF-7zDBKTjHpaeUjGOjvZUA7IrWsZraw/edit?usp=share_link)
+
+
 ## 1) Executive Summary
 This project analyzes historical European weather data to help **ClimateWins** explore how machine learning can support climate-related insights. Using data from 18 weather stations (late 1800s–2022), I tested multiple supervised learning models to predict whether a day is **“pleasant”** or **“unpleasant.”** I compared model performance across stations and reviewed potential bias and limitations to ensure results are used responsibly.
 
