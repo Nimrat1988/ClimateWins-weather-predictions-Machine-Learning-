@@ -1,7 +1,7 @@
 # ClimateWins: Weather prediction (Machine Learning)
 
 ## Presentation
-- [View / Download the PowerPoint](https://docs.google.com/presentation/d/1zuiehgtCJJzoF-7zDBKTjHpaeUjGOjvZUA7IrWsZraw/edit?usp=share_link)
+- [View / Download the Presentation](https://docs.google.com/presentation/d/1zuiehgtCJJzoF-7zDBKTjHpaeUjGOjvZUA7IrWsZraw/edit?usp=share_link)
 
 
 ## 1) Executive Summary
