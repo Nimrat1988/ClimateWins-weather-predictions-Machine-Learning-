@@ -42,6 +42,7 @@ ClimateWins wants to understand how climate change may impact weather patterns a
 - **Plotly** (3D loss surface / optimization visuals)
 - **Jupyter Notebook**
 - **GitHub** (version control, documentation)
+- **ChatGPT** to support writing and communication
 
 ## 5) Results & Business Recommendations
 ### Key results
