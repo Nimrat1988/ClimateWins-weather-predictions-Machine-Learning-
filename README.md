@@ -1,7 +1,7 @@
 # ClimateWins: Weather prediction (Machine Learning)
 
 ## Presentation (PDF)
-- [View the Presentation](./Presentation.pdf)
+- [View the Casestudy](./ClimateWins_Presentation.pdf)
 
 
 ## 1) Executive Summary
